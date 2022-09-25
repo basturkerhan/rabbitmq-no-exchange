@@ -1,4 +1,5 @@
 ### RabbitMQ ile Exchange yapısı kullanmadan oluşturulmuş Publisher-Consumer konsol uygulamasıdır.
+### Dockerfile dosyaları içerisindeki ENV URI alanına RabbitMQ Cloud adresi yazılmalıdır.
 
 ### ./UdemyRabbitMQ.publisher
 #### docker build -t no-exc-pub-img .
